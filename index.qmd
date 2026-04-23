@@ -1,9 +1,43 @@
 ---
 title: "Arpan Acharya"
+pagetitle: "Arpan Acharya"
+description-meta: "Economist and researcher based in Kathmandu, working on applied econometrics, health economics, and development economics."
+toc: false
+about:
+  template: trestles
+  image: images/profile.jpeg
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:arpanacharya11.aa@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/acharyaarpan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/arpan1acharya/
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/Arpan_Acharya_CV.pdf
 ---
-Hi, This is Arpan. Just trying out Quarto website.
 
-This is a Quarto website.
+I am a researcher based in Kathmandu, Nepal. I completed my Bachelor's in
+Economics from **Kathmandu University** in 2024, where I also worked as a
+Research Assistant at the Department of Economics after graduation. I am
+currently a **consultant at the Nepal Health Economics Association (NHEA)**,
+working on applied economic research in the health sector.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+As an aspiring PhD student, my research interests lie in **causal inference**,
+**development economics**, **political economy**, and **health economics**.
+My current and past work has touched on health-sector efficiency,
+sugar-sweetened beverage taxation, caste-based wage gaps, gender norms and
+female labour force participation, and the political economy of conflict in
+Nepal.
 
+Eventually, I hope to pursue a PhD in Economics and return to work in
+academia in Nepal.
+
+→ Read more [about me](about.qmd), browse my [research](research.qmd), or have
+a look at my [CV](cv.qmd).

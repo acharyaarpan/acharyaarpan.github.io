@@ -1,0 +1,97 @@
+---
+title: "Research"
+pagetitle: "Research · Arpan Acharya"
+---
+
+My research sits at the intersection of **applied econometrics**,
+**development economics**, **political economy**, and **health economics**,
+with most of my empirical work grounded in the South Asian — and particularly
+the Nepali — context.
+
+::: {.callout-note appearance="simple"}
+Some of the work below is ongoing or in draft form. If you'd like a copy of a
+manuscript, please [get in touch](mailto:arpanacharya11.aa@gmail.com).
+:::
+
+## Research positions
+
+- **Research Consultant**, Nepal Health Economics Association (NHEA) — *2026 – present*
+- **Research Associate**, HERD International — *2025 – 2026*
+- **Research Assistant**, Department of Economics, Kathmandu University — *2024 – 2025* (Supervisor: Dr. Santosh Adhikari)
+- **Policy Research Fellow & Researcher**, Samriddhi Foundation — *2024*
+- **Freelance Research Assistant**, independent / remote — *2023 – present*
+
+## Work in progress
+
+### Allocative and technical efficiency of Nepal's health sector {.research-item}
+*Nepal Health Economics Association (NHEA) — ongoing*
+
+Benchmarks efficiency across providers and units in Nepal's health system,
+drawing on provider-level and national survey data. The goal is evidence that
+can feed into health-financing and resource-allocation decisions in Nepal.
+
+### Gender norms, fertility, and female labour force participation {.research-item}
+*With Dr. Santosh Adhikari — ongoing*
+
+An independent research project on how social norms around gender and
+fertility shape women's participation in the labour force in Nepal. Work on
+this began during my time as a Research Assistant at Kathmandu University and
+continues in collaboration with Dr. Santosh Adhikari.
+
+## Work-related research
+
+### Econometric modelling of sugar-sweetened beverage (SSB) taxation {.research-item}
+*HERD International — 2025 – 2026*
+
+Contributed to modelling the economic and health effects of **taxing
+sugar-sweetened beverages** in Nepal. The work combined household expenditure
+data with price and consumption data to study demand responses, tax
+pass-through, and distributional consequences across different tax designs.
+
+### State Marginalization and the Onset of Maoist Insurgency in Nepal {.research-item}
+*Samriddhi Foundation — 2024.* Supervisor: Ms. Arpita Nepal
+
+A research manuscript on the political-economy roots of Nepal's Maoist
+insurgency, with a focus on how patterns of state marginalization shaped
+conflict onset.
+
+### Local Governance Index for Madhesh Province {.research-item}
+*Samriddhi Foundation — 2024*
+
+Designed and built a **Local Governance Index** for Madhesh Province to
+benchmark governance performance across local units, alongside broader work on
+state marginalization and inclusion.
+
+## Undergraduate research works
+
+### The Caste-Based Wage Gap in Nepal: Extent, Trends, and Explanations {.research-item}
+*Undergraduate thesis, Kathmandu University — 2024 (work in progress).* Supervisor: Dr. Mani Nepal
+
+Uses nationally representative Nepali labour-market data to document the size
+and evolution of wage gaps between caste groups and decompose how much of the
+gap is accounted for by observable characteristics versus unexplained
+components.
+
+### Impact of Reservation Policy on the Education of Caste-Disadvantaged People in Nepal {.research-item}
+*Applied Economic Research course, Kathmandu University — 2023.* Supervisor: Dr. Santosh Adhikari
+
+Examines how reservation-based affirmative action policies have shaped
+educational attainment among historically disadvantaged caste groups in Nepal.
+
+### Balancing Growth and Sustainability: Carbon Emissions, Energy Consumption, and Economic Growth in South Asia {.research-item}
+*Presented at the 19th South Asian Economics Students' Meet — 2024*
+
+A cross-country empirical study of the relationship between carbon emissions,
+energy consumption, and economic growth across South Asia.
+
+### Decoding Election 2022: Unveiling the Layer of Electoral Success {.research-item}
+*Empirical brief, with Subin Aryal — 2023*
+
+A short empirical brief analysing correlates of electoral success in Nepal's
+2022 general elections.
+
+## Conference presentations
+
+- **19th South Asian Economics Students' Meet**, 2024
+- **Tribhuvan University CAICE International Conference**, 2023 and 2024
+- **Harmony & Hues**, interdepartmental conference, Kathmandu University

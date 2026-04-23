@@ -1,0 +1,23 @@
+---
+title: "CV"
+pagetitle: "CV · Arpan Acharya"
+toc: false
+---
+
+My full curriculum vitae is embedded below. You can also
+[**download the PDF**](files/Arpan_Acharya_CV.pdf){target="_blank"}.
+
+::: {.cv-embed}
+<object data="files/Arpan_Acharya_CV.pdf" type="application/pdf" width="100%" height="900px">
+  <p>
+    Your browser doesn't support inline PDFs.
+    You can <a href="files/Arpan_Acharya_CV.pdf" target="_blank">download the CV here</a>.
+  </p>
+</object>
+:::
+
+<div class="cv-download">
+  <a class="btn btn-primary" href="files/Arpan_Acharya_CV.pdf" download>
+    Download CV (PDF)
+  </a>
+</div>

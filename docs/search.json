@@ -1,37 +1,149 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of applied econometrics, health economics, and development economics, with most of my empirical work grounded in the South Asian — and particularly the Nepali — context."
+  },
+  {
+    "objectID": "research.html#research-positions",
+    "href": "research.html#research-positions",
+    "title": "Research",
+    "section": "Research positions",
+    "text": "Research positions\n\nResearch Consultant, Nepal Health Economics Association (NHEA) — 2026 – present\nResearch Associate, HERD International — 2025 – 2026\nResearch Assistant, Department of Economics, Kathmandu University — 2024 – 2025 (Supervisor: Dr. Santosh Adhikari)\nPolicy Research Fellow & Researcher, Samriddhi Foundation — 2024\nFreelance Research Assistant, independent / remote — 2023 – present"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nAllocative and technical efficiency of Nepal’s health sector\nNepal Health Economics Association (NHEA) — ongoing\nBenchmarks efficiency across providers and units in Nepal’s health system, drawing on provider-level and national survey data. The goal is evidence that can feed into health-financing and resource-allocation decisions in Nepal.\n\n\nGender norms, fertility, and female labour force participation\nWith Dr. Santosh Adhikari — ongoing\nAn independent research project on how social norms around gender and fertility shape women’s participation in the labour force in Nepal. Work on this began during my time as a Research Assistant at Kathmandu University and continues in collaboration with Dr. Santosh Adhikari."
+  },
+  {
+    "objectID": "research.html#work-related-research",
+    "href": "research.html#work-related-research",
+    "title": "Research",
+    "section": "Work-related research",
+    "text": "Work-related research\n\nEconometric modelling of sugar-sweetened beverage (SSB) taxation\nHERD International — 2025 – 2026\nContributed to modelling the economic and health effects of taxing sugar-sweetened beverages in Nepal. The work combined household expenditure data with price and consumption data to study demand responses, tax pass-through, and distributional consequences across different tax designs.\n\n\nState Marginalization and the Onset of Maoist Insurgency in Nepal\nSamriddhi Foundation — 2024. Supervisor: Ms. Arpita Nepal\nA research manuscript on the political-economy roots of Nepal’s Maoist insurgency, with a focus on how patterns of state marginalization shaped conflict onset.\n\n\nLocal Governance Index for Madhesh Province\nSamriddhi Foundation — 2024\nDesigned and built a Local Governance Index for Madhesh Province to benchmark governance performance across local units, alongside broader work on state marginalization and inclusion."
+  },
+  {
+    "objectID": "research.html#undergraduate-research-works",
+    "href": "research.html#undergraduate-research-works",
+    "title": "Research",
+    "section": "Undergraduate research works",
+    "text": "Undergraduate research works\n\nThe Caste-Based Wage Gap in Nepal: Extent, Trends, and Explanations\nUndergraduate thesis, Kathmandu University — 2024 (work in progress). Supervisor: Dr. Mani Nepal\nUses nationally representative Nepali labour-market data to document the size and evolution of wage gaps between caste groups and decompose how much of the gap is accounted for by observable characteristics versus unexplained components.\n\n\nImpact of Reservation Policy on the Education of Caste-Disadvantaged People in Nepal\nApplied Economic Research course, Kathmandu University — 2023. Supervisor: Dr. Santosh Adhikari\nExamines how reservation-based affirmative action policies have shaped educational attainment among historically disadvantaged caste groups in Nepal.\n\n\nBalancing Growth and Sustainability: Carbon Emissions, Energy Consumption, and Economic Growth in South Asia\nPresented at the 19th South Asian Economics Students’ Meet — 2024\nA cross-country empirical study of the relationship between carbon emissions, energy consumption, and economic growth across South Asia.\n\n\nDecoding Election 2022: Unveiling the Layer of Electoral Success\nEmpirical brief, with Subin Aryal — 2023\nA short empirical brief analysing correlates of electoral success in Nepal’s 2022 general elections."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n19th South Asian Economics Students’ Meet, 2024\nTribhuvan University CAICE International Conference, 2023 and 2024\nHarmony & Hues, interdepartmental conference, Kathmandu University"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Arpan Acharya",
     "section": "",
-    "text": "Hi, This is Arpan. Just trying out Quarto website.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "favourites.html",
-    "href": "favourites.html",
-    "title": "Favourites",
-    "section": "",
-    "text": "Futsal\nWatching footabll"
-  },
-  {
-    "objectID": "favourites.html#hobbies",
-    "href": "favourites.html#hobbies",
-    "title": "Favourites",
-    "section": "",
-    "text": "Futsal\nWatching footabll"
+    "text": "I am a researcher based in Kathmandu, Nepal. I completed my Bachelor’s in Economics from Kathmandu University in 2024, where I also worked as a Research Assistant at the Department of Economics after graduation. I am currently a consultant at the Nepal Health Economics Association (NHEA), working on applied economic research in the health sector.\nAs an aspiring PhD student, my research interests lie in causal inference, development economics, political economy, and health economics. My current and past work has touched on health-sector efficiency, sugar-sweetened beverage taxation, caste-based wage gaps, gender norms and female labour force participation, and the political economy of conflict in Nepal.\nEventually, I hope to pursue a PhD in Economics and return to work in academia in Nepal.\n→ Read more about me, browse my research, or have a look at my CV."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "My Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nArpan Acharya\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nArpan Acharya\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m currently a consultant at the Nepal Health Economics Association (NHEA), where I work with health-sector data and contribute to applied economic research — currently on the allocative and technical efficiency of Nepal’s health sector.\nAlongside this, I’m pursuing a couple of independent research projects: one on gender norms, fertility, and female labour force participation in Nepal, and some exploratory work on the impact of conflict and social mobility in the Nepali context.\nI also love teaching. I spend part of my time teaching econometrics and causal inference, and I take on occasional freelance research-support work for graduate students and professionals."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "I’m an economist based in Kathmandu, Nepal. I completed a Bachelor’s degree in Economics at Kathmandu University (2020–2024), where I took coursework spanning micro and macroeconomics, econometrics, linear algebra, applied economic research, political economy, development economics, and international trade. During my undergrad I developed a strong interest in applied empirical work and in the institutional and historical roots of economic outcomes in South Asia."
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About",
+    "section": "",
+    "text": "I’m currently a consultant at the Nepal Health Economics Association (NHEA), where I work with health-sector data and contribute to applied economic research — currently on the allocative and technical efficiency of Nepal’s health sector.\nAlongside this, I’m pursuing a couple of independent research projects: one on gender norms, fertility, and female labour force participation in Nepal, and some exploratory work on the impact of conflict and social mobility in the Nepali context.\nI also love teaching. I spend part of my time teaching econometrics and causal inference, and I take on occasional freelance research-support work for graduate students and professionals."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research interests",
+    "text": "Research interests\nMy primary fields are:\n\nCausal inference and applied econometrics\nDevelopment economics\nPolitical economy of conflict, institutions, and inclusion\nHealth economics"
+  },
+  {
+    "objectID": "about.html#beyond-economics",
+    "href": "about.html#beyond-economics",
+    "title": "About",
+    "section": "Beyond economics",
+    "text": "Beyond economics\nI’m broadly curious about how institutions, identity, and history shape economic life and I read across anthropology, political science, and history to inform my empirical work. I’m drawn to questions where the most interesting variation comes from social dynamics, political representation and systems of governance, and how these factors shape individual and collective responses to policy."
+  },
+  {
+    "objectID": "about.html#data-and-tools",
+    "href": "about.html#data-and-tools",
+    "title": "About",
+    "section": "Data and tools",
+    "text": "Data and tools\nI work mostly in R, Python, and Stata. I’ve also started folding AI coding agents into my day-to-day workflow. A lot of my research involves cleaning and scraping data sometimes as part of a job, sometimes for independent projects. And some of that code is up on my GitHub."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nThe easiest way to reach me is by email. You can also find me on GitHub and LinkedIn."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My full curriculum vitae is embedded below. You can also download the PDF.\n\n\n\nYour browser doesn’t support inline PDFs. You can download the CV here.\n\n\n\n\n Download CV (PDF)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "research.html#current-work",
+    "href": "research.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\n\nAllocative and technical efficiency of Nepal’s health sector\nNepal Health Economics Association (NHEA) — 2026, ongoing\nAs a consultant with NHEA, I’m working on a project that measures allocative and technical efficiency across providers and units in Nepal’s health system. The work uses provider-level administrative data alongside national survey data to benchmark efficiency and examine what drives inefficiencies across geographies and facility types. The goal is to generate evidence that can feed into health-financing and resource-allocation decisions in Nepal.\n\n\nEconometric modelling of sugar-sweetened beverage (SSB) taxation\nHERD International — 2025–2026\nAt HERD International I’ve contributed to modelling the economic and health effects of taxing sugar-sweetened beverages in Nepal. The work combines household-level expenditure data with price and consumption data to study demand responses, tax pass-through, and the distributional consequences of different tax designs. More broadly, I’ve been involved in econometric analysis of large-scale health survey datasets across a range of projects at HERD."
+  },
+  {
+    "objectID": "research.html#independent-research",
+    "href": "research.html#independent-research",
+    "title": "Research",
+    "section": "Independent research",
+    "text": "Independent research\n\nThe Caste-Based Wage Gap in Nepal: Extent, Trends, and Explanations\nUndergraduate thesis, Kathmandu University — 2024 (work in progress) Supervisor: Dr. Mani Nepal\nUses nationally representative Nepali labour-market data to document the size and evolution of wage gaps between caste groups in Nepal, and decomposes how much of the gap is accounted for by observable characteristics versus unexplained components.\n\n\nImpact of Reservation Policy on the Education of Caste-Disadvantaged People in Nepal\nApplied Economic Research course, Kathmandu University — 2023 Supervisor: Dr. Santosh Adhikari\nA research manuscript examining how reservation-based affirmative action policies have shaped educational attainment among historically disadvantaged caste groups in Nepal.\n\n\nState Marginalization and the Onset of Maoist Insurgency in Nepal\nSamriddhi Foundation — 2024 Supervisor: Ms. Arpita Nepal\nA research manuscript on the political-economy roots of Nepal’s Maoist insurgency, with a focus on how patterns of state marginalization shaped conflict onset.\n\n\nBalancing Growth and Sustainability: Carbon Emissions, Energy Consumption, and Economic Growth in South Asia\nPresented at the 19th South Asian Economics Students’ Meet — 2024\nA cross-country empirical examination of the relationship between carbon emissions, energy consumption, and economic growth in the South Asian context.\n\n\nDecoding Election 2022: Unveiling the Layer of Electoral Success\nEmpirical brief, with Subin Aryal — 2023\nA short empirical brief analyzing correlates of electoral success in Nepal’s 2022 general elections."
+  },
+  {
+    "objectID": "research.html#prior-research-positions",
+    "href": "research.html#prior-research-positions",
+    "title": "Research",
+    "section": "Prior research positions",
+    "text": "Prior research positions\n\nResearch Assistant\nDepartment of Economics, Kathmandu University — Dec 2024 – Dec 2025 Supervisor: Dr. Santosh Adhikari\nCleaned secondary survey datasets (NLSS, HRVS, NLFS, NDHS), reviewed literature for ongoing projects, supported the preparation of research outputs, and provided data and methods support to students.\n\n\nPolicy Research Fellow and Researcher\nSamriddhi Foundation — May 2024 – Dec 2024\nBuilt the Local Governance Index for Madhesh Province, conducted research on state marginalization and governance, and drafted manuscripts on conflict, inclusion, and governance.\n\n\nFreelance Research Assistant\nIndependent, remote — 2023 – present\nProviding research support — data cleaning, econometric analysis in Stata and R, and literature reviews — to graduate students at the University of Chicago, NYU Abu Dhabi, and Duke University."
+  },
+  {
+    "objectID": "research.html#tools-data",
+    "href": "research.html#tools-data",
+    "title": "Research",
+    "section": "Tools & data",
+    "text": "Tools & data\nStata, R, Python, LaTeX, QGIS. Comfortable with Nepali survey datasets including NLSS, HRVS, NLFS, and NDHS, and with standard micro-econometric methods (OLS, IV, DiD, decomposition methods, limited dependent-variable models)."
   }
 ]

@@ -1,1 +1,105 @@
-/* css styles */
+/* ---------- Global ---------- */
+:root {
+  --aa-primary: #2c3e50;
+  --aa-accent:  #b4551c;
+  --aa-muted:   #6b7280;
+}
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Source Serif Pro", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- Landing page (about trestles template) ---------- */
+.quarto-about-trestles .about-entity .about-links .about-link {
+  border: 1px solid #d1d5db;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  margin: 0.25rem 0.25rem 0.25rem 0;
+  transition: all 0.15s ease;
+}
+
+.quarto-about-trestles .about-entity .about-links .about-link:hover {
+  background: var(--aa-primary);
+  color: #fff;
+  border-color: var(--aa-primary);
+  text-decoration: none;
+}
+
+.quarto-about-trestles .about-entity img {
+  box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+}
+
+/* ---------- Research page cards ---------- */
+.research-item {
+  margin-top: 1.6rem;
+}
+
+h3.research-item {
+  border-left: 3px solid var(--aa-accent);
+  padding-left: 0.75rem;
+  margin-top: 1.8rem;
+}
+
+/* ---------- CV embed ---------- */
+.cv-embed {
+  margin: 1.5rem 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.cv-download {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.cv-download .btn {
+  padding: 0.6rem 1.4rem;
+  font-size: 1.05rem;
+}
+
+/* ---------- Navbar ---------- */
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  font-size: 0.9rem;
+  color: var(--aa-muted);
+}
+
+/* ---------- Small polish ---------- */
+blockquote {
+  border-left: 3px solid var(--aa-accent);
+  color: var(--aa-muted);
+  font-style: italic;
+  padding-left: 1rem;
+}
+
+.callout {
+  margin: 1.5rem 0;
+}

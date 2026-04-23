@@ -1,5 +1,47 @@
 ---
 title: "About"
+pagetitle: "About · Arpan Acharya"
 ---
 
-About this site
+## What I'm working on
+
+I'm currently a **consultant at the Nepal Health Economics Association (NHEA)**,
+where I work with health-sector data and contribute to applied economic
+research — currently on the **allocative and technical efficiency of Nepal's
+health sector**.
+
+Alongside this, I'm pursuing a couple of independent research projects: one on
+**gender norms, fertility, and female labour force participation** in Nepal,
+and some exploratory work on the **impact of conflict** and **social mobility**
+in the Nepali context.
+
+I also love teaching. I spend part of my time teaching **econometrics** and
+**causal inference**, and I take on occasional freelance research-support work
+for graduate students and professionals.
+
+## Research interests
+
+My primary fields are:
+
+- **Causal inference** and applied econometrics
+- **Development economics**
+- **Political economy** of conflict, institutions, and inclusion
+- **Health economics**
+
+## Beyond economics
+
+I'm broadly curious about how **institutions, identity, and history** shape
+economic life and I read across anthropology, political science, and history to inform my empirical work. I'm drawn to questions where the most interesting variation comes from *social dynamics, political representation and systems of governance, and how these factors shape individual and collective responses to policy.*
+
+## Data and tools
+
+I work mostly in **R**, **Python**, and **Stata**. I've also started folding **AI coding agents** into my
+day-to-day workflow. A lot of my research involves **cleaning and scraping
+data** sometimes as part of a job, sometimes for independent projects. And
+some of that code is up on my [GitHub](https://github.com/acharyaarpan).
+
+## Get in touch
+
+The easiest way to reach me is by [email](mailto:arpanacharya11.aa@gmail.com).
+You can also find me on [GitHub](https://github.com/acharyaarpan) and
+[LinkedIn](https://www.linkedin.com/in/arpan1acharya/).
