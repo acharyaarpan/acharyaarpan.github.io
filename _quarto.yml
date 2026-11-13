@@ -17,16 +17,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
       - href: cv.qmd
         text: CV
       - href: blog.qmd
         text: Blog
       - href: https://github.com/acharyaarpan/undergraduate-thesis/blob/main/5_documentation/Caste-based-wage-gap-in-Nepal.pdf
         text: Undergraduate Thesis
+        target: _blank
+        rel: noopener
     right:
       - icon: github
         href: https://github.com/acharyaarpan
