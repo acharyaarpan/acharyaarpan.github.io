@@ -25,7 +25,7 @@ website:
         text: CV
       - href: blog.qmd
         text: Blog
-      - href: https://github.com/acharyaarpan/undergraduate-thesis
+      - href: https://github.com/acharyaarpan/undergraduate-thesis/blob/main/5_documentation/Caste-based-wage-gap-in-Nepal.pdf
         text: Undergraduate Thesis
     right:
       - icon: github
