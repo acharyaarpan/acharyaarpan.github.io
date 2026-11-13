@@ -25,6 +25,8 @@ website:
         text: CV
       - href: blog.qmd
         text: Blog
+      - href: https://github.com/acharyaarpan/undergraduate-thesis
+        text: Undergraduate Thesis
     right:
       - icon: github
         href: https://github.com/acharyaarpan
